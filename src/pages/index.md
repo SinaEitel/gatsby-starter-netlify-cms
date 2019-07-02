@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Sina & Norman traveling the world :)
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Sina & Norman
+image: /img/Hawaii.jpg
+heading: ... traveling the world 
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
