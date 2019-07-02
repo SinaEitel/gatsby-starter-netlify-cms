@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'Sina & Norman traveling the world :)'
+title: Sina & Norman traveling the world :)
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
