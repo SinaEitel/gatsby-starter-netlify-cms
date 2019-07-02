@@ -19,9 +19,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
+        backgroundImage: `url(gatsby-starter-netlify-cms/static/img/Hawaii.JPG)`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
