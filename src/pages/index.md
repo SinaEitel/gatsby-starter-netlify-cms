@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Sina & Norman
-image: /img/Hawaii.jpg
-heading: ... traveling the world 
+image: /img/Hawaii.JPG
+heading: ... traveling the world
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
