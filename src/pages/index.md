@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Sina & Norman
 image: /img/Hawaii.JPG
-heading: ... traveling the world
-subheading: Support sustainable farming while enjoying a cup
+heading: worldwide journey
+subheading: '... traveling the world '
 mainpitch:
-  title: Why Kaldi
+  title: An endless journey
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
